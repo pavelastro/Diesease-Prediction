@@ -8,7 +8,7 @@ To build the precision of the model, three distinctive algorithms have been util
 ```Naive Bayes algorithm```
 
 
-All the four Algorithms predict the disease as a result when the user enter  the symtoms of diseases.
+All the four Algorithms predict the disease as a result when the user enter  the symptoms of diseases.
 
 # Kernel Output without inputs
 ![Screenshot (85)](https://user-images.githubusercontent.com/77791707/121008788-48299b80-c78b-11eb-9d94-a6ce61a8fa6a.png)
